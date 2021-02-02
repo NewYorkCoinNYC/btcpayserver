@@ -1211,6 +1211,13 @@
       "crypto":true
    },
    {
+      "name":"NYC",
+      "code":"NYC",
+      "divisibility":8,
+      "symbol":null,
+      "crypto":true
+   },
+   {
       "name":"BTG",
       "code":"BTG",
       "divisibility":8,
